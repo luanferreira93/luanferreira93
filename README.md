@@ -13,7 +13,7 @@
 <ul>
   <li> 🙋‍♂️ Programmer</li>
   <li>📍From Brazil living in Santa Helena , Goiás</li>
-  <li>💬Ask me about **JavaScript, HTML, CSS, MONGODB**</li>
+  <li>💬Ask me about **JavaScript ,NODE, HTML, CSS, MONGODB**</li>
   <li>📚studying **SQL, React and React Native, C# , PHP**</li>
 </ul>
 
