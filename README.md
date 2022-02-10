@@ -12,7 +12,7 @@
 <h4>About me</h4>
 <ul>
   <li> 🙋‍♂️ Programmer</li>
-  <li>📍From Brazil living in Santa Helena , Goiás</li>
+  <li>📍From Brazil</li>
   <li>💬Ask me about **JavaScript ,NODE, HTML, CSS, MONGODB**</li>
   <li>📚studying **React and React Native, PHP**</li>
 </ul>
