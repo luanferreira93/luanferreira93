@@ -12,8 +12,7 @@
 <h4>About me</h4>
 <ul>
   <li>📍From Brazil</li>
-  <li>💬Ask me about **JavaScript ,NODE, HTML, CSS**</li>
-  <li>📚studying **React and React Native, PHP, Python**</li>
+  <li>💬Ask me about **JavaScript ,NODE, HTML, CSS, PHP, Python**</li>
 </ul>
 
 <p>Reach me out 👇🏼</p>
